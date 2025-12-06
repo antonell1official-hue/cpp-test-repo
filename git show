@@ -1,0 +1,29 @@
+[33mcommit 94f7ef3718e24c2492be5c28ccdb2cc941d927f3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: antonell1official-hue <anton.ell1.official@gmail.com>
+Date:   Sun Nov 30 20:30:11 2025 +0300
+
+    Удалён файл bad.cpp
+
+[33mcommit e04f15e751def4a7096765e243204cd0bde39399[m
+Author: antonell1official-hue <anton.ell1.official@gmail.com>
+Date:   Sun Nov 30 20:29:04 2025 +0300
+
+    Добавлен файл bad.cpp
+
+[33mcommit f105211deccec952c5d5a06298b15973dee92047[m
+Author: antonell1official-hue <anton.ell1.official@gmail.com>
+Date:   Sun Nov 30 20:24:55 2025 +0300
+
+    Добавлен файл .gitignore с настройками
+
+[33mcommit 133b65e33c86101dab2249be88ec3f1463720a0d[m
+Author: antonell1official-hue <anton.ell1.official@gmail.com>
+Date:   Sun Nov 30 20:07:37 2025 +0300
+
+    Добавлена закрывающая скобка
+
+[33mcommit 287abdea8bc687a7abede07900b1abc91b5a195e[m
+Author: Nickolay Kolesnikov <nick206265@gmail.com>
+Date:   Fri Oct 20 17:07:49 2023 +0300
+
+    first commit
